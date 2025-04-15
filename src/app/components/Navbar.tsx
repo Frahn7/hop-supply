@@ -9,7 +9,7 @@ export const Navbar = () => {
           <img src="/hop-logo.png" alt="logo" className="w-9 h-9" />
           Hop Supply
         </span>
-        <span className="self-center">
+        <span className="self-center cursor-pointer">
           <GiHamburgerMenu />
         </span>
       </div>
